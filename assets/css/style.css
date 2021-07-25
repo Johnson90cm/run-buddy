@@ -30,12 +30,12 @@ header a {
 }
 
 header nav {
-    float:right;
+    float: right;
     margin: 7px 0;
 }
 
 header nav ul li {
-    display: inline;
+    display:inline;
 }
 
 header nav ul li a {
